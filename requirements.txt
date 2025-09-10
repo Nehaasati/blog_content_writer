@@ -1,0 +1,13 @@
+langgraph
+langchain
+langchain_community
+python-dotenv
+fastapi
+streamlit
+uvicorn
+pydantic
+httpx
+requests
+
+
+-e .

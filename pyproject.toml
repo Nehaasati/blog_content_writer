@@ -1,5 +1,5 @@
 [project]
-name = "blog-content-writer"
+name = "blog-writer"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
